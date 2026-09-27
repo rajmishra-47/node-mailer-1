@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.*
+
+# Dependencies / local tooling
+node_modules/
+.venv/
+
+# Recipient lists
+emails-list.txt
+emails-list.xlsx
+
+# Resume / attachments
+Rajnandan__Mishra_Resume_MLE_1.pdf
+
+# Message template
+email-message.js
